@@ -1,3 +1,3 @@
-# my-space
+# my-github
 hema game
 ## project notes
